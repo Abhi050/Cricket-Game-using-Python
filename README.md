@@ -1,6 +1,6 @@
 # Fantasy Cricket Application
 
-![fanatsy_cricket](https://user-images.githubusercontent.com/40792388/48671048-56b9f400-eb48-11e8-9a7a-ce62e3c40a58.png)
+![CRICKET-GAME]
 
 ----
 
@@ -115,7 +115,7 @@ python3 fantasy.py
 
 ## Tools
 ### References
-* [Atom](https://atom.io/)
+* [Pycharm](https://pycharm.io/)
 * [SqliteStudio](https://sqlitestudio.pl/index.rvt)
 * [Internshala-Summer-Trainings](https://trainings.internshala.com/python-training)
 * [Python](https://www.python.org/)
